@@ -1,0 +1,7 @@
+[build]
+  publish = "."
+
+[forms]
+  [forms."kontakt"]
+    notification = true
+    email = "sinan.guemues@gmail.com"
